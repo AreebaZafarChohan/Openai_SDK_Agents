@@ -18,14 +18,16 @@ This repository contains multiple projects and code samples related to:
 ## 📂 Repository Structure  
 
 /
-├── 01_uv/ # Initial setup utilities
-├── Q2_openrouter/ # OpenRouter implementations
-│ └── practice_openrouter
-├── Q3_liellin_openai_agent/ # OpenAI agent examples
-├── Q4_hello_agent/ # Basic agent templates
-├── Q5_chainlt/ # Chainlit demos
-│ └── helloworld
-└── LICENSE # MIT License file
+- ├── 01_uv/ # Initial setup utilities
+- ├── 02_openrouter/ # OpenRouter implementations
+- ├── 03_litellm_openai_agent/ # OpenAI agent examples
+- ├── 04_hello_agent/ # Basic agent templates
+- ├── 05_chainlt/ # Chainlit demos
+- ├── 06_chatbot/ # Chainlit with agent chatbot
+- ├── 07_streaming/ # streaming implemetation
+- ├── 08_tools/ # tools implemetation
+- ├── 09_agents_as_tool// # agents as tool implemetation
+- └── LICENSE # MIT License file
 
 
 ## 📜 License  
