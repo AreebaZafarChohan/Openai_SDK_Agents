@@ -27,6 +27,7 @@ This repository contains multiple projects and code samples related to:
 - ├── 07_streaming/ # streaming implemetation
 - ├── 08_tools/ # tools implemetation
 - ├── 09_agents_as_tool// # agents as tool implemetation
+- ├── 10_context// # context, local context, LLM or Agent context implemetation
 - └── LICENSE # MIT License file
 
 
