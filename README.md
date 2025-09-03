@@ -26,8 +26,11 @@ This repository contains multiple projects and code samples related to:
 - ├── 06_chatbot/ # Chainlit with agent chatbot
 - ├── 07_streaming/ # streaming implemetation
 - ├── 08_tools/ # tools implemetation
-- ├── 09_agents_as_tool// # agents as tool implemetation
-- ├── 10_context// # context, local context, LLM or Agent context implemetation
+- ├── 09_agents_as_tool/ # agents as tool implemetation
+- ├── 10_context/ # context, local context, LLM or Agent context implemetation
+- ├── 11_handoffs/ # handoffs, handoffs with custom function and chatbot
+- ├── 12_structured_output/ # structured output with pydantic class
+- ├── 13_guadrails/ # input guadrails, output guadrails and chatbot
 - └── LICENSE # MIT License file
 
 
