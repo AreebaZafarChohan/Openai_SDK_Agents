@@ -31,6 +31,7 @@ This repository contains multiple projects and code samples related to:
 - ├── 11_handoffs/ # handoffs, handoffs with custom function and chatbot
 - ├── 12_structured_output/ # structured output with pydantic class
 - ├── 13_guadrails/ # input guadrails, output guadrails and chatbot
+- ├── OPENAI_AGENTS_SDK_NEW / # This folder contains all new steps of openai agents sdk
 - └── LICENSE # MIT License file
 
 
